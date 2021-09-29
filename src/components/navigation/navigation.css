@@ -1,0 +1,9 @@
+nav {
+    padding: 0.5rem;
+    margin-inline: 2rem;
+    justify-content: space-between;
+}
+
+.btn {
+    background-color: #83C5BE;
+}

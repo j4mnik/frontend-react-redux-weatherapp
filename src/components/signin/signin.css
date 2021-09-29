@@ -1,0 +1,16 @@
+.signin {
+    background-color: white;
+    background-image: url('../assets/new.svg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: top;
+}
+
+
+.bottom {
+    background-color: #2C3344;
+}
+
+.register_button {
+    background-color: #2C3344;
+}

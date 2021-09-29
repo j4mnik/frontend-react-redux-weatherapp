@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+html, body {
+  height: 100%
+}
+
+@font-face {
+  font-family: 'Roboto', sans-serif;
+  src: url('ttps://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap');
+}
+
+body{
+  background-color: #EDF6F9;
+}
+
+p{
+  font-weight: bold;
+  font-size: 2vh;
+}
+
+h1 {
+  color: #E29578;
+  text-align: left
+} 
+
+.in {
+  background-image: url('./components/assets/back.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 65vh; 
+  height: 100vh;
+    }
+
