@@ -1,6 +1,5 @@
 
 ![login-iphonex](https://user-images.githubusercontent.com/28156347/135309968-982600b6-3139-46ce-9aed-8dbe26b0ff47.png)
-![weather-iphonex](https://user-images.githubusercontent.com/28156347/135310006-1d85740e-d2f8-4f9a-a39c-14d0c4494d5f.png)
 ![weather-desktop](https://user-images.githubusercontent.com/28156347/135310015-aa483090-263b-4437-a5c0-a3fcef63513d.png)
 ![signup-iphonex](https://user-images.githubusercontent.com/28156347/135310022-94689cda-8456-4cf2-bab3-5e01115f8326.png)
 
